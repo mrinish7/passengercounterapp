@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+}
+
+#top-head {
+    font-weight: 200px;
+    background-color: aqua;
+    text-align: center;
+    padding: 20px;
+}
+
+#sub-head{
+    font-weight: 400px;
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: 100px;
+    padding: 40px;
+    color: black;
+}
+
+#increment-btn{
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    cursor: pointer;
+    margin-left: 720px;
+    margin-top: 100px;
+}
